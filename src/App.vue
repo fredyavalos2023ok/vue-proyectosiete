@@ -31,6 +31,9 @@
       <button @click="reset" class="btn btn-secondary">Reset</button>
       <button @click="add" :disabled="bloquearBtnAdd" class="btn btn-primary">Add</button>
     </div>
+    <br>
+    <h2>Esto he puesto solo para realzar un cambio simple para arreglar los problemas de github</h2>
+    <br>
 <!--<br>
     <h2>{{ arrayFavoritos }}</h2> -->
     <br>
